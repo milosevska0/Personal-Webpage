@@ -8,7 +8,7 @@ This project provides hands-on examples of HTML structure and CSS styling.
 
 ## Getting Started
 
-To explore the code and view the project, simply navigate through the repository's files. You can also view the deployed project page [https://milosevska0.github.io/hw.github.io/main.html]
+To explore the code and view the project, simply navigate through the repository's files. You can also view the deployed project page https://milosevska0.github.io/Personal-Webpage/ .
 
 ## Course Details
 
